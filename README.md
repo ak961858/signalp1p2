@@ -12,7 +12,7 @@ while()
 {
 read y
 update x
-send signal to p1
+send signal to p2
 }
 
 }
